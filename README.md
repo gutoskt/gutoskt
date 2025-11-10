@@ -1,21 +1,19 @@
-<img width="100%" height="184" alt="image" src="https://github.com/user-attachments/assets/9ea39fef-b5d9-4e3c-8171-319ba1987b35" /><div align="center">
-  <img src="![banner](https://github.com/user-attachments/assets/88ec13d5-da8f-42cc-b7b1-80ed94863fd7)
-">
-</div>
+<img width="3780" height="1890" alt="Blue and Yellow Geometric Launching Soon Banner Landscape" src="https://github.com/user-attachments/assets/51412d5c-19ce-4104-ad56-98808a0bd5ef" />
+
 
 # Olá, mundo! 👋 Meu nome é Carlos Augusto Nunes Vieira
 
-### Desenvolvedor Full Stack (em formação) | Entusiasta de Tecnologia | Estudante de Engenharia de Software
+## Desenvolvedor Full Stack (em formação) | Entusiasta de Tecnologia | Estudante de Engenharia de Software
 
 Sou um apaixonado por tecnologia e por criar soluções eficientes e escaláveis. Atualmente, estou cursando **Engenharia de Software** na **Universidade Federal do Amazonas (UFAM)** e mergulhando de cabeça no universo do desenvolvimento web.
 
+### Instituto de Computação - UFAM
+![icomp](https://github.com/user-attachments/assets/9ec41c54-fd65-4047-a33a-0497cfdff54a)
+
 No momento, aplico meus conhecimentos no **Instituto de Desenvolvimento Tecnológico (INDT)**, onde contribuo para a modernização e otimização dos processos internos.
 
-<div align="center">
-  <img src="![indt](https://github.com/user-attachments/assets/e47507e5-5317-41e9-a886-b39188259c99)
-" alt="banner">
-</div>
-
+### Instituto de Desenvolvimento Tecnológico
+![indt](https://github.com/user-attachments/assets/141bcad1-07c7-41e0-a3ae-fdd40aa6f148)
 ---
 
 ## 🚀 Minha Jornada de Aprendizado
@@ -53,7 +51,7 @@ Esta é a base que estou solidificando e expandindo todos os dias:
 
 ## 🎯 Meu Objetivo
 
-Estou em busca de **oportunidades desafiadoras** (como estágios, vagas júnior ou projetos freelancer) para aprimorar minhas habilidades, especialmente em **desenvolvimento front-end**, e colaborar em projetos que gerem um impacto positivo.
+Estou em busca de **oportunidades desafiadoras** (como estágios, vagas júnior ou projetos freelancer) para aprimorar minhas habilidades, especialmente em **desenvolvimento full stack**, e colaborar em projetos que gerem um impacto positivo.
 
 Que venham os desafios, os códigos e as conquistas! 💻
 
@@ -63,5 +61,5 @@ Que venham os desafios, os códigos e as conquistas! 💻
 
 Adoraria trocar uma ideia sobre tecnologia, projetos ou oportunidades!
 
-* **LinkedIn:** `[Seu LinkedIn]`
-* **Email:** `[Seu Email]`
+* **LinkedIn:** www.linkedin.com/in/carlos-augusto-nunes-vieira-602833304
+* **Email:** augustovieira@icomp.ufam.edu.br
