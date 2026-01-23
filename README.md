@@ -1,5 +1,4 @@
-<img width="3780" height="1890" alt="Blue and Yellow Geometric Launching Soon Banner Landscape" src="https://github.com/user-attachments/assets/51412d5c-19ce-4104-ad56-98808a0bd5ef" />
-
+<img width="3780" height="866" alt="512435110-51412d5c-19ce-4104-ad56-98808a0bd5ef" src="https://github.com/user-attachments/assets/bcc3e675-3b22-425e-b57b-35ad004195c4" />
 
 # Olá, mundo! 👋 Meu nome é Carlos Augusto Nunes Vieira
 
@@ -8,7 +7,7 @@
 Sou um apaixonado por tecnologia e por criar soluções eficientes e escaláveis. Atualmente, estou cursando **Engenharia de Software** na **Universidade Federal do Amazonas (UFAM)** e mergulhando de cabeça no universo do desenvolvimento web.
 
 ### Instituto de Computação - UFAM
-![icomp](https://github.com/user-attachments/assets/9ec41c54-fd65-4047-a33a-0497cfdff54a)
+![512433746-9ec41c54-fd65-4047-a33a-0497cfdff54a](https://github.com/user-attachments/assets/006a079b-2911-4b39-9525-6198c6b8b378)
 
 No momento, aplico meus conhecimentos no **Instituto de Desenvolvimento Tecnológico (INDT)**, onde contribuo para a modernização e otimização dos processos internos.
 
@@ -44,6 +43,7 @@ Esta é a base que estou solidificando e expandindo todos os dias:
 * **HTML5**
 * **CSS3**
 * **JavaScript**
+* **React JS**
 
 *(...e muitas outras sendo adicionadas ao arsenal com o FullStack Pro!)*
 
