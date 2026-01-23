@@ -44,6 +44,8 @@ Esta é a base que estou solidificando e expandindo todos os dias:
 * **CSS3**
 * **JavaScript**
 * **React JS**
+* **Java**
+* **Liguagem C**
 
 *(...e muitas outras sendo adicionadas ao arsenal com o FullStack Pro!)*
 
