@@ -11,8 +11,8 @@
 
   ### 🚀 Desenvolvedor Full Stack | 🎓 Engenharia de Software (UFAM - Icomp) | 💻 React • React Native • Node.js
 
-  [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=plastic&logo=globe&logoColor=white)](https://[carlosaugusto.dev.web.app](https://projeto-portifolio-segundo.web.app/))
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-augusto)
+  [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=plastic&logo=globe&logoColor=white)](https://projeto-portifolio-segundo.web.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-augusto-nunes-vieira-602833304)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/gutoskt)
   [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:augustovieira@icomp.edu.br)
 
@@ -90,10 +90,10 @@ Graduando em **Engenharia de Software pela UFAM (Icomp)** com experiência prát
 
 ## 📬 Vamos Conectar?
 
-<div>
+<div align="center">
 
-  [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=plastic&logo=globe&logoColor=white)](https://carlosaugusto.dev.web.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-augusto)
+  [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=plastic&logo=globe&logoColor=white)](https://projeto-portifolio-segundo.web.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-augusto-nunes-vieira-602833304)
   [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:augustovieira@icomp.edu.br)
 
 </div>
